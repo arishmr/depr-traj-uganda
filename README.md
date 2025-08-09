@@ -1,4 +1,4 @@
-# Longitudinal trajectories of depressive symptoms in children are influenced by baseline inflammation and HIV status
+# Longitudinal trajectories of depressive symptoms: influence of baseline inflammation and HIV status
 Analysis code for a longitudinal cohort study involving 1,301 participants in Uganda.
 
 ### PROJECT SUMMARY
